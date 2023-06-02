@@ -1,0 +1,56 @@
+.Registro_container{
+    width: 700px;
+    margin: 0 auto;
+    padding: 3em;
+    background-color: white;
+    box-sizing: border-box;
+}
+
+.Registro_container h1{
+    color: #009933;
+    margin-bottom: 1em;
+    background-color: white;
+    
+    
+}
+
+.Registro_container h1 img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin: 0 auto;   
+}
+
+.Registro_container h2 {
+    color: #20712D;
+}
+
+.Registro_container p{
+    color: #7E8082;
+    background-color: white;
+    font-weight: lighter;
+}
+
+.Registro_container{
+    position: absolute;
+    top: 50px;
+    left: 5px;
+}
+
+.Background_container{
+    background-color: #009933;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 700px;
+    height: 924px;
+    width: 800px;
+}
+
+.Background_container img{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 100px;
+    top: 150px;
+}

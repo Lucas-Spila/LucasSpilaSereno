@@ -1,0 +1,67 @@
+
+.Login_container{
+    width: 700px;
+    margin: 0 auto;
+    padding: 3em;
+    background-color: white;
+}
+
+.Login_container h1{
+    color: #009933;
+    margin-bottom: 1em;
+    background-color: white;
+    padding-left: 0.5em;
+}
+
+.Login_container h2{
+    color: #20712D;
+}
+
+
+.Login_container h1 img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    
+}
+
+.Login_container p{
+    color: #7E8082;
+    background-color: white;
+    font-weight: lighter;
+}
+
+.Login_container{
+    position: absolute;
+    top: 50px;
+    left: 5px;
+}
+
+.Background_container{
+    background-color: #009933;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 700px;
+    width: 50%;
+}
+
+.Background_container img{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 100px;
+    top: 150px;
+}
+
+
+
+
+/*
+
+*{
+    background-color: #green;
+    width: 50%;
+}
+
+*/
